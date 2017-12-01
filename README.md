@@ -1,0 +1,1 @@
+# scrabble-kata-8
