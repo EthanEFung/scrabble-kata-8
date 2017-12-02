@@ -14,3 +14,10 @@
 
 * the key code for enter
 * the syntax for createReadStream
+
+## Retrospective
+
+* Found myself flustered again trying to create Duplex and Transform streams,
+  but to no avail. Partially, because I have yet to send the relevant
+  information back to the client because I am refusing on using more memory than
+  needed.
