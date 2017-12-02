@@ -9,3 +9,8 @@
 * like before, avoid googling. if you have to google, please note the fact. like
   before, don't use frameworks on the client side, just plain vanilla JS and DOM
   APIs.
+
+## Google Log
+
+* the key code for enter
+* the syntax for createReadStream
